@@ -1,3 +1,6 @@
+body{
+    background-color: blanchedalmond;
+}
 h1{
 font-size: 30px;
 color: salmon;
@@ -16,6 +19,4 @@ span{
 
 color: navy;
 }
-body{
-    background-color: blanchedalmond;
-}
+
