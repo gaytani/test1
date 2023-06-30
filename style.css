@@ -1,0 +1,18 @@
+h1{
+font-size: 30px;
+color: salmon;
+}
+h2{
+font-size: 20px;
+color: hotpink;
+}
+.big{
+font-size: 60px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+span{
+
+color: navy;
+}
